@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm dripone</h1>
+
 - 🌱 I'm currently learning: **Data Engineering in Fabric**
 
 - 🔭 I'm working on an Azerothcore based World of Warcraft Classic+ project, with quite a few modified snippets from cMangos
