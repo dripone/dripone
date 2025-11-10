@@ -4,7 +4,7 @@
 
 - 🔭 I'm working on an Azerothcore based World of Warcraft Classic+ project, with quite a few modified snippets from cMangos
 
-- ⚡ I'm running public server projects to contribute back to the World of Warcraft Emulation scene ( Azerothcore and cMangos Wrath of the Lich King )
+- ⚡ I'm running public server projects to contribute back to the World of Warcraft Emulation scene ( Azerothcore and cMangos )
 
 
 
